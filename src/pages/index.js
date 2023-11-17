@@ -28,18 +28,10 @@ export default function Home() {
           </a>
 
           <a href='/AliciaZhang ' className='card'>
-            <h3>Alicia's Page &rarr;</h3>
+            <h3>Alicia Zhang's Page &rarr;</h3>
             <p>Click here to navigate to Alicia's page</p>
           </a>
 
-          <a
-            href='/Alicia'
-            className='card'>
-            <h3>Alicia Zhang&rarr;</h3>
-            <p>
-              Click to navigate to Alicia's about me page!
-            </p>
-          </a>
           <a
             href='https://nextjs.org/learn/foundations/about-nextjs'
             className='card'>
