@@ -9,7 +9,7 @@ export default function Home() {
       </Head>
 
       <main>
-        <h1 className='title'>Congratulations! You've set up your webapp!</h1>
+        <h1 className='title'>Hello! Welcome to CSCI 1000 Group 15's Website!</h1>
 
         <p className='description'>
           Get started by editing <code>src/pages/index.js</code> to be your
@@ -23,13 +23,13 @@ export default function Home() {
 
         <div className='grid'>
           <a href='/EricDavid ' className='card'>
-            <h3>Eric David&rarr;</h3>
+            <h3>Eric David's Page &rarr;</h3>
             <p>Click here to navigate to Eric's about me page!</p>
           </a>
 
           <a href='/AliciaZhang ' className='card'>
             <h3>Alicia Zhang's Page &rarr;</h3>
-            <p>Click here to navigate to Alicia's page</p>
+            <p>Click here to navigate to Alicia's about me page!</p>
           </a>
 
           <a href='/WinstonThompson ' className='card'>
@@ -38,15 +38,17 @@ export default function Home() {
           </a>
 
           <a
-            href='https://nextjs.org/learn/foundations/about-nextjs'
+            href='/LiboZou'
             className='card'>
-            <h3>Next.js&rarr;</h3>
-            <p>Click here to learn more about Next.js</p>
+            <h3>Libo Zou's Page &rarr;</h3>
+            <p>Click here to navigate to Libo's about me page!</p>
           </a>
-          <a href='https://blog.hubspot.com/website/html' className='card'>
-            <h3>HTML and CSS &rarr;</h3>
-            <p>Click here to learn more about HTML and CSS</p>
+
+          <a href='/ZunniAbbasi' className='card'>
+            <h3>Zuni Abasi's Page &rarr;</h3>
+            <p>Click here to navigate to Zunni's about me page!</p>
           </a>{' '}
+
           <a href='https://tailwindcss.com/' className='card'>
             <h3>Tailwind css&rarr;</h3>
             <p>Click here to learn more about tailwind css</p>
