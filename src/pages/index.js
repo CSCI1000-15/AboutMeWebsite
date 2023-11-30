@@ -16,10 +16,8 @@ export default function Home() {
           project home page.
         </p>
         <p className='description2'>
-          Next, each team member will create their own about me file in the
-          pages directory:{' '}
+          Group Members: Eric David, Alicia Zhange, Libo Zou, Winston Thompson, Zunairah Abbasi{' '}
         </p>
-        <code>src/page/teamMemberName.js</code>
 
         <div className='grid'>
           <a href='/EricDavid ' className='card'>

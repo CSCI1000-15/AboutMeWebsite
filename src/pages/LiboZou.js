@@ -3,17 +3,17 @@ import React from 'react';
 export default function AboutMePage() {
   return (
     <div className='container'>
-      <title>Eric David's About Me Page</title>
+      <title>Libo Zou's About Me Page</title>
       <link rel='icon' href='/favicon.ico' />
 
       <main>
         <div className='header'>
-          <h1 className='title'>Xin chào! I'm <span className='name'>Eric</span>. </h1>
+          <h1 className='title'>Hello! I'm <span className='name'>Libo</span>. </h1>
         </div>
         <img
           className='profile-pic'
-          src='https://i.postimg.cc/8PFJ4XhD/20231015-022405-936.jpg'
-          alt='Picture of Eric David'
+          src='https://i.postimg.cc/qR2VgDkd/spiderman.jpg'
+          alt='tom holland'
         />
 
         <p className='description'>
